@@ -1,0 +1,59 @@
+//Pelicula
+P-XXX
+Titulo
+Genero
+Descripcion
+Puntaje
+Calificaciones
+Duracion
+cantidad de premios
+n premios (uno por linea)
+Saga
+
+//Ejemplo de pelicula
+P-AAA
+Un 100 en el proyecto integrador
+Drama
+El mejor proyecto que un equipo pudo hacer en tan solo 2 dias.
+5.0
+3
+90
+3
+Oscar
+Grammy
+El mejor proyecto de la vida
+Éxito
+
+//Serie
+S-XXX
+Titulo
+Genero
+Descripcion
+Puntaje
+Calificaciones
+numero de temporadas
+n numero de episodios
+(n episodios)
+//Episodio
+titulo
+duracion
+numero de episodio
+temporada
+
+//Ejemplo de serie
+S-AAA
+En camino al exito
+Drama
+El mejor proyecto que un equipo pudo hacer en tan solo 2 dias la serie.
+5.0
+3
+2
+2
+El comienzo
+30
+1
+1
+Exito
+30
+2
+2
